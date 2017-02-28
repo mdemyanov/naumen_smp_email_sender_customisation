@@ -1,0 +1,1 @@
+# naumen_smp_starter_kit
