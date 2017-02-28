@@ -1,1 +1,1 @@
-# naumen_smp_starter_kit
+# <a href='http://www.naumen.ru/products/service_desk/'><img src='http://itsm365.ru/img/logo.svg' height='60'></a>
