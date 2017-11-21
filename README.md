@@ -1,1 +1,1 @@
-#More [info](https://medium.com/@mdemyanov/sending-emails-from-an-alternate-address-in-naumen-service-desk-4-abc7f73eb42b) 
+# More [info](https://medium.com/@mdemyanov/sending-emails-from-an-alternate-address-in-naumen-service-desk-4-abc7f73eb42b) 
