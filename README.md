@@ -1,1 +1,1 @@
-# <a href='http://www.naumen.ru/products/service_desk/'><img src='http://itsm365.ru/img/logo.svg' height='60'></a>
+#More [info](https://medium.com/@mdemyanov/sending-emails-from-an-alternate-address-in-naumen-service-desk-4-abc7f73eb42b) 
